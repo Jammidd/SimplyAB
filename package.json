@@ -1,0 +1,25 @@
+{
+  "name": "simply-ab",
+  "version": "1.0.0",
+  "description": "SimplyAB provides a simple way to add AB testing to your site",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jammidd/SimplyAB.git"
+  },
+  "keywords": [
+    "AB",
+    "testing",
+    "experimentation",
+    "QA"
+  ],
+  "author": "Richard Middleton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jammidd/SimplyAB/issues"
+  },
+  "homepage": "https://github.com/Jammidd/SimplyAB#readme"
+}
